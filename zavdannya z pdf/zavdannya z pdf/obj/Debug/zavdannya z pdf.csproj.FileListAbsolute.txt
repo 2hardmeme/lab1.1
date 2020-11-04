@@ -1,0 +1,7 @@
+D:\University\ООП\1 laba\zavdannya z pdf\zavdannya z pdf\bin\Debug\zavdannya z pdf.exe.config
+D:\University\ООП\1 laba\zavdannya z pdf\zavdannya z pdf\bin\Debug\zavdannya z pdf.exe
+D:\University\ООП\1 laba\zavdannya z pdf\zavdannya z pdf\bin\Debug\zavdannya z pdf.pdb
+D:\University\ООП\1 laba\zavdannya z pdf\zavdannya z pdf\obj\Debug\zavdannya z pdf.csprojAssemblyReference.cache
+D:\University\ООП\1 laba\zavdannya z pdf\zavdannya z pdf\obj\Debug\zavdannya z pdf.csproj.CoreCompileInputs.cache
+D:\University\ООП\1 laba\zavdannya z pdf\zavdannya z pdf\obj\Debug\zavdannya z pdf.exe
+D:\University\ООП\1 laba\zavdannya z pdf\zavdannya z pdf\obj\Debug\zavdannya z pdf.pdb
